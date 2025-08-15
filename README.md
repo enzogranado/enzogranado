@@ -87,6 +87,9 @@ Utilizo este espaço para compartilhar meus projetos, estudos e experimentos, se
 
 <br/>
 <br/>
+
+---
+
 ### 📊 Estatísticas
 
 <p>
