@@ -46,14 +46,6 @@ Utilizo este espaço para compartilhar meus projetos, estudos e experimentos, se
 />
 <img 
     align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="" 
-/>
-<img 
-    align="left" 
     alt="HTML" 
     title="HTML"
     width="30px" 
