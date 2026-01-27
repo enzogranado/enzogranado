@@ -2,7 +2,7 @@
 
 *Desenvolvedor FrontEnd*
 
-Olá! Meu nome é Enzo Chagas Granado, tenho 18 anos e sou estudante de Ciência da Computação no Instituto Mauá de Tecnologia (IMT). Tenho forte interesse em explorar o mundo da programação e da resolução de problemas, buscando constantemente aprender novas ferramentas e conceitos que possam transformar ideias em soluções eficientes.
+Olá! Meu nome é Enzo Chagas Granado, tenho 19 anos e sou estudante de Ciência da Computação no Instituto Mauá de Tecnologia (IMT). Tenho forte interesse em explorar o mundo da programação e da resolução de problemas, buscando constantemente aprender novas ferramentas e conceitos que possam transformar ideias em soluções eficientes.
 
 Sou entusiasta de Inteligência Artificial, do aprendizado de diversas linguagens de programação e de desafios lógicos, pois acredito que a combinação de versatilidade técnica e raciocínio estruturado é fundamental para criar soluções robustas e inovadoras.
 Utilizo este espaço para compartilhar meus projetos, estudos e experimentos, sempre com o objetivo de evoluir como profissional e contribuir para a comunidade.
