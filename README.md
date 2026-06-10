@@ -101,13 +101,10 @@ Meu Perfil no Linkdin ⤵️
 
 ### 🔥 Minha Conta no GitHub
 
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=enzogranado&show_icons=true&theme=great-gatsby" 
+<p align="center">
+  <img 
+      alt="Gráfico de Commits no Ano" 
+      width="100%" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=enzogranado&bg_color=000000&color=ffa726&line=ffb74d&point=ffffff&area=true&hide_border=true&custom_title=Commits%20Neste%20Ano" 
   />
-
 </p>
